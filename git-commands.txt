@@ -1,0 +1,6 @@
+git clone repository_url
+cd repository_name
+git add .
+git commit -m "Your descriptive commit message here"
+git push
+git pull origin main
